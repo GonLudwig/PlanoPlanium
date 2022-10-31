@@ -1,4 +1,4 @@
 *
 !public/
+!jsons/
 !.gitignore
-!/jsons
