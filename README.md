@@ -18,7 +18,7 @@ Crie as variaveis de ambiente.
 cp .env.example .env
 ```
 ```sh
-cp /app/.env.example /app/.env
+cp ./app/.env.example ./app/.env
 ```
 
 ```sh
