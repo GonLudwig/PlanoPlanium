@@ -128,10 +128,10 @@ export function CadastroBeneficiarios() {
                           <FormLabel>Beneficiario</FormLabel>
                           <Field as={Input}
                           name={`beneficiarios[${index}].nome`}
-                          placeholder="ex: Joao" />
+                          placeholder="Nome ex: Joao" />
                           <Field as={Input}
                           name={`beneficiarios[${index}].idade`}
-                          placeholder="ex: 17" />
+                          placeholder="Idade ex: 17" />
                           <Button
                           type="button"
                           onClick={() => arrayHelpers.remove(index)}
